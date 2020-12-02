@@ -8,7 +8,6 @@ spring:
     username: root
     password: 19960924
     url: jdbc:mysql://localhost:3306/cfd?serverTimezone=UTC
-
   servlet:
     multipart:
       max-file-size: 100MB
